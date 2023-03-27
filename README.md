@@ -1,6 +1,6 @@
 ### **Hello World 👋 my name is [Illya Hrynyuk](https://www.linkedin.com/in/illya-hrynyuk/)**
 
-&nbsp; <hr>
+<hr>
 
 ### ⚡ 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑸𝒖𝒂𝒍𝒊𝒕𝒚 𝑨𝒔𝒔𝒖𝒓𝒂𝒏𝒄𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝒘𝒊𝒕𝒉 9+ 𝒚𝒆𝒂𝒓𝒔 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 𝒊𝒏 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔.
 
@@ -16,7 +16,7 @@ For 4+ years I’ve been working in Software and Hardware QA Test engineering (�
 
 🆃🅴🅲🅷🅽🅸🅲🅰🅻 🆂🅺🅸🅻🅻🆂
 
-𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐬𝐭𝐢𝐧𝐠 𝐓𝐨𝐨𝐥𝐬: Selenium WebDriver, Selenium IDE, Swagger, Postman API, GTMetrix, Lighthouse, BrowserStack, SpeedLab <br />
+**𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐬𝐭𝐢𝐧𝐠 𝐓𝐨𝐨𝐥𝐬:** &nbsp; Selenium WebDriver, Selenium IDE, Swagger, Postman API, GTMetrix, Lighthouse, BrowserStack, SpeedLab <br />
 **𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬:** &nbsp; Python, JavaScript, SQL, MySQL, XPath, XML, PHP, HTML5, CSS3, JSON <br />
 **𝐈𝐃𝐄:** &nbsp; PyCharm, WebStorm, PHPStorm, VS Code, Atom, Sublime Text, Chrome Dev tools, Notepad++ <br />
 **𝐌𝐞𝐭𝐡𝐨𝐝𝐨𝐥𝐨𝐠𝐢𝐞𝐬:** &nbsp; Agile / SCRUM, Waterfall  <br />
@@ -27,9 +27,6 @@ For 4+ years I’ve been working in Software and Hardware QA Test engineering (�
 **𝐎𝐒:** &nbsp; Windows, MacOS, iOS, Android <br />
 **𝐒𝐨𝐮𝐫𝐜𝐞 𝐜𝐨𝐧𝐭𝐫𝐨𝐥:** &nbsp; Git, GitHub, GitLab, BitBucket  <br />
 **𝐂𝐌𝐒:** &nbsp; WordPress, Magento 2, Strapi
-
-
-
 &nbsp; <hr>
                
 📌 # Contact me:<br/><br/>
@@ -40,9 +37,7 @@ For 4+ years I’ve been working in Software and Hardware QA Test engineering (�
  
  ![blockchain-digital-handshake](https://user-images.githubusercontent.com/106053124/171986452-82ff05f9-eadc-4e7f-9e3b-d794f2b7c810.jpeg)
 
-&nbsp; <hr>  &nbsp;
-
-
+&nbsp; <hr>
 ## ⚡  Technologies and tools I work with:
 <br />
 
@@ -90,8 +85,6 @@ For 4+ years I’ve been working in Software and Hardware QA Test engineering (�
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" height="30" /> &nbsp;
 
 
-<hr> 
-
- &nbsp;
+<hr> <br/>
 
 [![Illya's GitHub stats](https://github-readme-stats.vercel.app/api?username=illya-sky&theme=gotham&show_icons=true&)]
