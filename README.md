@@ -32,10 +32,9 @@ For 4+ years I’ve been working in Software and Hardware QA Test engineering (�
 
 &nbsp; <hr>
                
- <span style="display: flex;"><span style="margin-right: 10px;">📌 # Find me:</span> [![Linkedin Badge](https://img.shields.io/badge/-illya_hrynyuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/illya-hrynyuk/)](https://www.linkedin.com/in/illya-hrynyuk/)</span>
-
-
-  <span style="display: flex;"><span style="margin-right: 10px;">📌 # Contact me:</span> [![Gmail Badge](https://img.shields.io/badge/-illya.hrynyuk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:illya.hrynyuk@gmail.com)](mailto:illya.hrynyuk@gmail.com)</span>
+📌 # Contact me:<br/><br/>
+ [![Linkedin Badge](https://img.shields.io/badge/-illya_hrynyuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/illya-hrynyuk/)](https://www.linkedin.com/in/illya-hrynyuk/) &nbsp;
+ [![Gmail Badge](https://img.shields.io/badge/-illya.hrynyuk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:illya.hrynyuk@gmail.com)](mailto:illya.hrynyuk@gmail.com)
 
 <hr> <br/> <br/>
  
@@ -95,4 +94,4 @@ For 4+ years I’ve been working in Software and Hardware QA Test engineering (�
 
  &nbsp;
 
-[![Illya's GitHub stats](https://github-readme-stats.vercel.app/api?username=illya-sky&theme=gotham&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
+[![Illya's GitHub stats](https://github-readme-stats.vercel.app/api?username=illya-sky&theme=gotham&show_icons=true&)]
