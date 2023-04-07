@@ -83,8 +83,3 @@ For 4+ years Iâ€™ve been working in Software and Hardware QA Test engineering (ð
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" /> &nbsp;
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" height="30" /> &nbsp;
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" height="30" /> &nbsp;
-
-
-<hr> <br/>
-
-[![Illya's GitHub stats](https://github-readme-stats.vercel.app/api?username=illya-sky&theme=gotham&show_icons=true&)]
